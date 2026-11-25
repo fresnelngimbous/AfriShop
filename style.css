@@ -6,4 +6,4 @@ nav a { color: white; text-decoration: none; margin-left: 24px; }
 nav a:hover { text-decoration: underline; }
 #accueil { background: #e8dfcc; text-align: center; padding: 60px 20px; }
 #accueil h1 { color: #265040; }
-.bouton { display: inline-block; background: #265040; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; }s
+.bouton { display: inline-block; background: #265040; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; }
